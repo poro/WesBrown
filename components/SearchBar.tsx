@@ -84,7 +84,7 @@ export default function SearchBar() {
               <div className="text-center mb-6">
                 <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-2 text-white">
                   <span className="bg-gradient-to-r from-green-400 via-blue-500 to-purple-500 bg-clip-text text-transparent">
-                    Alex Albon the Legend
+                    Wes Brown the Legend
                   </span>
                 </h1>
                 <p className="text-sm sm:text-base text-gray-300">
