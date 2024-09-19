@@ -5,14 +5,14 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Loader2 } from "lucide-react"
 
-// Update the image sources to use the new attached images
 const images = [
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_prompt_6_915-0JY0VOeqLQWX2RP1lwzLg1FJsTB9Sn.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1_prompt_8_620808-Kbf5YUQRGfsBowSG5jt1J7tgmghnnA.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_prompt_2_915-QAZekhyvk1jkSoRIr5Ey1ZLhrobrr5.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1_prompt_5_915-ciCaNihiLE2DidiMPfNVUPOJqCd9NX.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0_prompt_9_915-4NUDPtn6abIudhGaqqovhKwEwH3RD0.jpg"
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0_prompt_9_915-NKdOjhaoQtn2bj3PNTClA3RrJuXffE.jpg",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1_prompt_8_620808-LItVjLPeDIaTVFHDMvESASbZHt2eWe.jpg",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_prompt_2_915-QLlknsWwhxp4EdvlEmfAWpBxIR40VL.jpg",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_prompt_4_12345-z6Nk2NCQUpLoc1dTALbN2RKyS6gEGN.jpg",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_prompt_6_915-8GqLdIEn3XDIpXElWFcLJFy7oO4P4k.jpg"
 ];
+// Update the image sources to use the new attached images
 
 
 function ImageCarousel({ currentImage }: { currentImage: number }) {
