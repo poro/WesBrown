@@ -5,13 +5,15 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Loader2 } from "lucide-react"
 
+// Update the image sources to use the new attached images
 const images = [
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_prompt_2_620808-oq06ogdIC9n1eBpRImII2FtlLphaIj.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0_prompt_0_915-vFth4fvAgbepkTEkX644gl5iTZTf5z.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/9_prompt_0_88888-ktuXChPCqtX3uXEXa9gLWJmHeTu4lQ.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/17_prompt_0_55555-FsFfRBLfPGKfyapiuW1J2v3eBryekC.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/18_prompt_1_915-s6AEZUkU9U03yPMbzgv8O4WbVd1pSN.jpg"
-]
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_prompt_6_915-0JY0VOeqLQWX2RP1lwzLg1FJsTB9Sn.jpg",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1_prompt_8_620808-Kbf5YUQRGfsBowSG5jt1J7tgmghnnA.jpg",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_prompt_2_915-QAZekhyvk1jkSoRIr5Ey1ZLhrobrr5.jpg",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1_prompt_5_915-ciCaNihiLE2DidiMPfNVUPOJqCd9NX.jpg",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0_prompt_9_915-4NUDPtn6abIudhGaqqovhKwEwH3RD0.jpg"
+];
+
 
 function ImageCarousel({ currentImage }: { currentImage: number }) {
   return (
