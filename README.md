@@ -3,25 +3,17 @@
 <!-- PROJECT LOGO -->
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
-<img src="public/icon-192.png" alt="AI Problem Solver Logo">
-  <h1 align="center">AI Problem Solver</h1>
+<img src="public/icon-192.png" alt="AI Avatar Logo">
+  <h1 align="center">AI Avatar</h1>
 
   <p align="center">
-    A search engine powered by AI that solves your problems
-    <br />
-    <br />
-    <a href="https://aiproblemsolver.vercel.app">View Website</a>
+    An AI avatar that you might know?!
+   
   </p>
 </div>
 
 <!-- Preview -->
-## 📸 Screenshot
-![image](https://github.com/Supernova3339/aiproblemsolver/assets/63515814/010e9ee6-ebc8-40e7-826a-d4ee8227d79a)
-
-### 🚀 Try it now!
-
-[AI Problem Solver](https://aiproblemsolver.vercel.app)
-
+#
 ### 🛠️ Built With
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,7 +25,7 @@
 <!-- Features -->
 ## ✨ Features
 
-- **AI-powered Search:** Utilize the power of AI to find solutions to your problems.
+- **AI-powered Avatar:** Interact with an AI-powered avatar that you might recognize.
 - **Intuitive Design:** Simple and familiar design for an effortless user experience.
 - **Responsive:** Works on various devices to provide a consistent experience.
 
@@ -44,11 +36,11 @@
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/supernova3339/aiproblemsolver.git
+   git clone https://github.com/WesBrown/ai-avatar.git
    ```
 2. Install dependencies
    ```sh
-   cd ai-problem-solver
+   cd WesBrown
    npm install
    ```
 3. Start the development server
@@ -58,14 +50,3 @@
 
 <br />
 
-<!-- Usage -->
-## 🧑‍💻 Usage
-
-1. Visit [AI Problem Solver](https://aiproblemsolver.vercel.app/).
-2. Enter your problem in the search bar.
-3. Press Enter to get AI-generated solutions.
-
-<a href="#readme-top">Back to Top</a>
-# alexF1L
-# alexF1L
-# alexF1L
