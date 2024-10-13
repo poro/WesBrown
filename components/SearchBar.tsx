@@ -6,11 +6,11 @@ import { Input } from "@/components/ui/input"
 import { Loader2 } from "lucide-react"
 
 const images = [
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0_prompt_9_915-NKdOjhaoQtn2bj3PNTClA3RrJuXffE.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1_prompt_8_620808-LItVjLPeDIaTVFHDMvESASbZHt2eWe.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_prompt_2_915-QLlknsWwhxp4EdvlEmfAWpBxIR40VL.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_prompt_4_12345-z6Nk2NCQUpLoc1dTALbN2RKyS6gEGN.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_prompt_6_915-8GqLdIEn3XDIpXElWFcLJFy7oO4P4k.jpg"
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SirAlexFerguson1024x1024_2-yQ2efpMiBrT0O9ahKfsWmEhLwwcnWU.png",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SirAlexFerguson1024x1024_1-jymwhjCN4mKSB906bXIOxISeoZtoyv.png",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SirAlexFerguson1024x1024_3-rFjuFiIr094smWi4RSJtOe3NHqjmhq.png",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SirAlexFerguson1024x1024_0-BU2DRVNouZA5FMQsaGevIZpZcKTqKg.png",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SirAlexFerguson1024x1024_4-SLyTtwUk58TN9Dpf2gbRkAm3WkONMN.png"
 ];
 // Update the image sources to use the new attached images
 
@@ -84,7 +84,7 @@ export default function SearchBar() {
               <div className="text-center mb-6">
                 <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-2 text-white">
                   <span className="bg-gradient-to-r from-green-400 via-blue-500 to-purple-500 bg-clip-text text-transparent">
-                    Wes Brown the Legend
+                    Sir Alex Ferguson the Legend
                   </span>
                 </h1>
                 <p className="text-sm sm:text-base text-gray-300">
